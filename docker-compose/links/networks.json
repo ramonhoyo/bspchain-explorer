@@ -1,19 +1,13 @@
 [{
-    "title": "Optimism",
-    "url": "https://optimism.blockscout.com/",
+    "title": "BSP Chain",
+    "url": "https://bspscan.com/",
     "group": "Mainnets",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg",
     "isActive": true
 },
 {
-    "title": "Optimism Sepolia",
-    "url": "https://optimism-sepolia.blockscout.com/",
-    "group": "Testnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
-},
-{
-    "title": "Optimism Goerli",
-    "url": "https://optimism-goerli.blockscout.com/",
+    "title": "BSP Chain Testnet",
+    "url": "https://testnet.bspscan.com/",
     "group": "Testnets",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
 },

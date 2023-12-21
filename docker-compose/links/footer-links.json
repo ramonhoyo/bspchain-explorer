@@ -1,26 +1,26 @@
 [
 	{
-		"title": "Company",
+		"title": "Business Shop",
 		"links": [
 			{
 				"text": "Advertise",
-				"url": "https://coinzilla.com/"
+				"url": "https://www.businessshop.ai/"
 			},
 			{
 				"text": "Staking",
-				"url": "https://example.com"
+				"url": "https://www.businessshop.ai/"
 			},
 			{
 				"text": "Contact us",
-				"url": "https://example.com"
+				"url": "https://www.businessshop.ai/"
 			},
 			{
 				"text": "Brand assets",
-				"url": "https://example.com"
+				"url": "https://www.businessshop.ai/"
 			},
 			{
 				"text": "Term of service",
-				"url": "https://example.com"
+				"url": "https://www.businessshop.ai/"
 			}
 		]
 	},
@@ -29,19 +29,19 @@
 		"links": [
 			{
 				"text": "API docs",
-				"url": "https://example.com"
+				"url": "https://www.businessshop.ai/"
 			},
 			{
 				"text": "Knowledge base",
-				"url": "https://example.com"
+				"url": "https://www.businessshop.ai/"
 			},
 			{
 				"text": "Network status",
-				"url": "https://example.com"
+				"url": "https://www.businessshop.ai/"
 			},
 			{
 				"text": "Learn Alphabet",
-				"url": "https://example.com"
+				"url": "https://www.businessshop.ai/"
 			}
 		]
 	},
@@ -50,23 +50,23 @@
 		"links": [
 			{
 				"text": "Stake Alphabet",
-				"url": "https://example.com"
+				"url": "https://www.businessshop.ai/"
 			},
 			{
 				"text": "Build token",
-				"url": "https://example.com"
+				"url": "https://www.businessshop.ai/"
 			},
 			{
 				"text": "Build DAPPS",
-				"url": "https://example.com"
+				"url": "https://www.businessshop.ai/"
 			},
 			{
 				"text": "NFT marketplace",
-				"url": "https://example.com"
+				"url": "https://www.businessshop.ai/"
 			},
 			{
 				"text": "Become validator",
-				"url": "https://example.com"
+				"url": "https://www.businessshop.ai/"
 			}
 		]
 	}
