@@ -2,25 +2,13 @@
     "title": "BSP Chain",
     "url": "https://bspscan.com/",
     "group": "Mainnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg",
+    "icon": "https://i.ibb.co/x6CJP8Y/BSP-Chain-11.png",
     "isActive": true
 },
 {
     "title": "BSP Chain Testnet",
     "url": "https://testnet.bspscan.com/",
     "group": "Testnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
-},
-{
-    "title": "Optimism Bedrock Beta",
-    "url": "https://blockscout.com/optimism/bedrock-beta",
-    "group": "Testnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
-},
-{
-    "title": "Optimism Opcraft",
-    "url": "https://blockscout.com/optimism/opcraft",
-    "group": "Other",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism_opcraft.svg"
+    "icon": "https://i.ibb.co/x6CJP8Y/BSP-Chain-11.png"
 }
 ]
