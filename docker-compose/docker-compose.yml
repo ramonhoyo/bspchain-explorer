@@ -26,8 +26,8 @@ services:
     links:
       - db:database
     environment:
-        ETHEREUM_JSONRPC_VARIANT: 'geth'
-        BLOCK_TRANSFORMER: 'clique'
+        ETHEREUM_JSONRPC_VARIANT: 'besu'
+        BLOCK_TRANSFORMER: 'qbft'
 
   visualizer:
     extends:
