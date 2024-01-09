@@ -27,7 +27,6 @@ services:
       - db:database
     environment:
         ETHEREUM_JSONRPC_VARIANT: 'besu'
-        BLOCK_TRANSFORMER: 'clique'
 
   visualizer:
     extends:
