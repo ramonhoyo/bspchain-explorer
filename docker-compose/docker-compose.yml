@@ -39,8 +39,6 @@ services:
       - db:database
     environment:
         ETHEREUM_JSONRPC_VARIANT: 'besu'
-        ETHEREUM_JSONRPC_HTTP_URL: http://141.147.73.102:8545/
-        ETHEREUM_JSONRPC_TRACE_URL: http://141.147.73.102:8545/
         CHAIN_ID: '110800'
         INDEXER_DISABLE_INTERNAL_TRANSACTIONS_FETCHER: false
 
